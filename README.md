@@ -1,4 +1,4 @@
-# 🔢 Array-Based Algorithms (Python & Java)
+# 🔢 Array-Based Algorithms (Python & Java) !
 
 Welcome to **Array-Based Algorithms**, a collection of the most essential and frequently used algorithms implemented in **both Python and Java**.  
 This repository is designed for **interview preparation, DSA practice, and competitive programming** learners who want clear, side-by-side implementations.
